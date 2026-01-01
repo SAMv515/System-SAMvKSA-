@@ -1,0 +1,2630 @@
+{
+    "serverName": "SAMvKSA",
+    "categories": [
+        {
+            "id": "1454249141738934406",
+            "name": "・الترفية",
+            "channels": [
+                {
+                    "id": "1454249265911304303",
+                    "name": "・العاب",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454249367476109322",
+                    "name": "・البنك",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1454847759508308071",
+            "name": "شات الأدارة",
+            "channels": [
+                {
+                    "id": "1454847827653169162",
+                    "name": "الأدارة",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1455924027435520041",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "STREAM",
+                                "VIEW_CHANNEL",
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1395822288577888386",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1347246210901213244",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "CONNECT"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1455331296695025856",
+                    "name": "المسؤوليات",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454854982905102472",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "STREAM",
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES",
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1395822288577888386",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": [
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1347246210901213244",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "CONNECT"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1454848003910275266",
+                    "name": "Admin-الأدارة",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454854982905102472",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1347246210901213244",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "CONNECT"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1395822288577888386",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1454854982905102472",
+                    "type": "role",
+                    "allow": [],
+                    "deny": []
+                },
+                {
+                    "id": "1347246210901213244",
+                    "type": "member",
+                    "allow": [
+                        "VIEW_CHANNEL",
+                        "CONNECT"
+                    ],
+                    "deny": []
+                },
+                {
+                    "id": "1395822288577888386",
+                    "type": "role",
+                    "allow": [
+                        "VIEW_CHANNEL"
+                    ],
+                    "deny": [
+                        "SPEAK"
+                    ]
+                },
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "STREAM",
+                        "VIEW_CHANNEL",
+                        "CONNECT",
+                        "SPEAK"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1454243160221024513",
+            "name": "• العام",
+            "channels": [
+                {
+                    "id": "1455930888184660078",
+                    "name": "•-الاقتراحات",
+                    "type": "GUILD_FORUM",
+                    "permissions": []
+                },
+                {
+                    "id": "1454334343752454205",
+                    "name": "・الميمز",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454656754435752028",
+                    "name": "・تكليجات",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454995255559721001",
+                    "name": "・الألوان",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454334657536720976",
+                    "name": "・xp-المستوى",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454243604787626128",
+                    "name": "・الشات",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1454246956237852702",
+            "name": "My accounts",
+            "channels": [
+                {
+                    "id": "1454248589839564852",
+                    "name": "tiktok",
+                    "type": "GUILD_NEWS",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "641619993728909313",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1455736526385320077",
+                    "name": "حساباتي",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1258410146099626134",
+            "name": "انشاء روم مؤقت",
+            "channels": [
+                {
+                    "id": "1389520761957388379",
+                    "name": "・interface",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1389531299965829253",
+                    "name": "➕ Creator Channel",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1454575197498769641",
+            "name": "・Voice Room",
+            "channels": [
+                {
+                    "id": "1454575659782242397",
+                    "name": "・Crew",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575376465400002",
+                    "name": "・Faze",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575815047123068",
+                    "name": "・Glow",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575723606966313",
+                    "name": "・Snow",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575474964566187",
+                    "name": "・Slow",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575622515855523",
+                    "name": "・Earth",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1454250921822519318",
+            "name": "・الأخبار ⌛",
+            "channels": [
+                {
+                    "id": "1454251072863604918",
+                    "name": "・kick",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454259955103305933",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454251672573444168",
+                    "name": "・pictures",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454251273632092284",
+                    "name": "・clips",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1454543313142153318",
+            "name": "Server Logs",
+            "channels": [
+                {
+                    "id": "1454543356985082091",
+                    "name": "log-move",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543376882864200",
+                    "name": "log-mute-deafen",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543324739276904",
+                    "name": "log-channels",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543406985383946",
+                    "name": "log-tmute-untmute",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543344884515001",
+                    "name": "log-bots",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543386848657531",
+                    "name": "log-add-remove-emoji",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543334725914841",
+                    "name": "log-join-leave",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543329776894185",
+                    "name": "log-nickname",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543402526969977",
+                    "name": "log-mutevoice",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543319970484400",
+                    "name": "log-pic",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543315147161736",
+                    "name": "log-messages",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543382268612648",
+                    "name": "log-time-untime",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543936805802290",
+                    "name": "log-ticket",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543349238464532",
+                    "name": "log-roles",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543398466748660",
+                    "name": "log-warns",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543392124960799",
+                    "name": "log-prison-unprison",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543367953453138",
+                    "name": "log-ban-unban",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543371887448176",
+                    "name": "log-kick",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543352832987247",
+                    "name": "log-vjoin-vexit",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454543339704553603",
+                    "name": "log-links",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1258367783495012423",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1455975292509224993",
+                    "name": "log-bank",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "VIEW_CHANNEL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1454253268812304395",
+            "name": "・tickets",
+            "channels": [
+                {
+                    "id": "1454252765676175543",
+                    "name": "・التذاكر",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "SEND_MESSAGES",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1455205302906523806",
+            "name": "الإدارة العليا",
+            "channels": [
+                {
+                    "id": "1455206555560579113",
+                    "name": "الأدارة-العليا",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1347246210901213244",
+                            "type": "member",
+                            "allow": [],
+                            "deny": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1455205910925410426",
+                    "name": "الأدارة العليا",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1347246210901213244",
+                            "type": "member",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1347246210901213244",
+                    "type": "member",
+                    "allow": [],
+                    "deny": []
+                },
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "VIEW_CHANNEL",
+                        "CONNECT",
+                        "SPEAK"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1455260482041548893",
+            "name": "Server Events",
+            "channels": [
+                {
+                    "id": "1455260486978240813",
+                    "name": "Server Events",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1455260489042100287",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1455260484667445333",
+                    "name": "server-events",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1455260489042100287",
+                            "type": "role",
+                            "allow": [
+                                "VIEW_CHANNEL"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1455260489042100287",
+                    "type": "role",
+                    "allow": [
+                        "VIEW_CHANNEL"
+                    ],
+                    "deny": []
+                },
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "VIEW_CHANNEL"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1224925483318120458",
+            "name": "・ Voice Room",
+            "channels": [
+                {
+                    "id": "1454574973493575841",
+                    "name": "・voice 3",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575035145650393",
+                    "name": "・voice 4",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454574901070528532",
+                    "name": "・voice 1",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454574943349248163",
+                    "name": "・voice 2",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454575989563588679",
+                    "name": "・voice 5",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1224925482928312347",
+            "name": "・Main",
+            "channels": [
+                {
+                    "id": "1454241686950777036",
+                    "name": "・welcome",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1265658325148893224",
+                    "name": "・القوانين",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES",
+                                "USE_PUBLIC_THREADS",
+                                "CREATE_PUBLIC_THREADS",
+                                "USE_PRIVATE_THREADS",
+                                "CREATE_PRIVATE_THREADS",
+                                "SEND_MESSAGES_IN_THREADS"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "641619993728909313",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                },
+                {
+                    "id": "1454251924403650602",
+                    "name": "・الإعلان",
+                    "type": "GUILD_NEWS",
+                    "permissions": [
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "641619993728909313",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "ADD_REACTIONS",
+                        "SEND_MESSAGES"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "1454250130915070014",
+            "name": "・Gen",
+            "channels": [
+                {
+                    "id": "1454340568447582265",
+                    "name": "・أذكار",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454340812648353904",
+                    "name": "・إحسان",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454337847304917146",
+                    "name": "・locket",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454250563846803628",
+                    "name": "・أجر",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454335640169746621",
+                    "name": "・feeling",
+                    "type": "GUILD_TEXT",
+                    "permissions": [
+                        {
+                            "id": "1454957705553772595",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": []
+        },
+        {
+            "id": "1445247686184796170",
+            "name": "・Live SAMvKSA",
+            "channels": [
+                {
+                    "id": "1454241714565943508",
+                    "name": "・Live JustChat 🟢",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1225274026881187860",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1405606413056610398",
+                    "name": "・Live  IRL 🎥",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1456023935924572271",
+                    "name": "・Live JustChat 🟢",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1225274026881187860",
+                            "type": "role",
+                            "allow": [],
+                            "deny": []
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454241537574699171",
+                    "name": "・Live RedM 🛑",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        },
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "1454241174972928041",
+                    "name": "・Live FiveM 🛑",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "CONNECT",
+                                "SPEAK"
+                            ]
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "permissions": [
+                {
+                    "id": "1224925482911273031",
+                    "type": "role",
+                    "allow": [],
+                    "deny": [
+                        "CONNECT",
+                        "SPEAK"
+                    ]
+                }
+            ]
+        }
+    ],
+    "roles": [
+        {
+            "id": "1454854982905102472",
+            "name": "Vip",
+            "color": 11363590,
+            "permissions": []
+        },
+        {
+            "id": "1454994836146094182",
+            "name": "7",
+            "color": 15844367,
+            "permissions": []
+        },
+        {
+            "id": "1454994685696409690",
+            "name": "1",
+            "color": 11927631,
+            "permissions": []
+        },
+        {
+            "id": "1454994759058854005",
+            "name": "4",
+            "color": 8407555,
+            "permissions": []
+        },
+        {
+            "id": "1454995018082287689",
+            "name": "10",
+            "color": 7471359,
+            "permissions": []
+        },
+        {
+            "id": "1454994787785773126",
+            "name": "5",
+            "color": 986381,
+            "permissions": []
+        },
+        {
+            "id": "1258367783495012423",
+            "name": ".",
+            "color": 14701040,
+            "permissions": [
+                "CREATE_INSTANT_INVITE",
+                "KICK_MEMBERS",
+                "BAN_MEMBERS",
+                "ADMINISTRATOR",
+                "MANAGE_CHANNELS",
+                "MANAGE_GUILD",
+                "ADD_REACTIONS",
+                "VIEW_AUDIT_LOG",
+                "PRIORITY_SPEAKER",
+                "STREAM",
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "SEND_TTS_MESSAGES",
+                "MANAGE_MESSAGES",
+                "EMBED_LINKS",
+                "ATTACH_FILES",
+                "READ_MESSAGE_HISTORY",
+                "MENTION_EVERYONE",
+                "USE_EXTERNAL_EMOJIS",
+                "VIEW_GUILD_INSIGHTS",
+                "CONNECT",
+                "SPEAK",
+                "MUTE_MEMBERS",
+                "DEAFEN_MEMBERS",
+                "MOVE_MEMBERS",
+                "USE_VAD",
+                "CHANGE_NICKNAME",
+                "MANAGE_NICKNAMES",
+                "MANAGE_ROLES",
+                "MANAGE_WEBHOOKS",
+                "MANAGE_EMOJIS_AND_STICKERS",
+                "USE_APPLICATION_COMMANDS",
+                "REQUEST_TO_SPEAK",
+                "MANAGE_EVENTS",
+                "MANAGE_THREADS",
+                "USE_PUBLIC_THREADS",
+                "CREATE_PUBLIC_THREADS",
+                "USE_PRIVATE_THREADS",
+                "CREATE_PRIVATE_THREADS",
+                "USE_EXTERNAL_STICKERS",
+                "SEND_MESSAGES_IN_THREADS",
+                "START_EMBEDDED_ACTIVITIES",
+                "MODERATE_MEMBERS",
+                "USE_SOUNDBOARD",
+                "SEND_VOICE_MESSAGES"
+            ]
+        },
+        {
+            "id": "1395822799804825715",
+            "name": "Mod Kick",
+            "color": 50001,
+            "permissions": []
+        },
+        {
+            "id": "1454994895998550177",
+            "name": "9",
+            "color": 8172288,
+            "permissions": []
+        },
+        {
+            "id": "1454913955377053829",
+            "name": "Muted",
+            "color": 0,
+            "permissions": []
+        },
+        {
+            "id": "1454957705553772595",
+            "name": "prison",
+            "color": 0,
+            "permissions": []
+        },
+        {
+            "id": "1455924027435520041",
+            "name": "Co-Admin",
+            "color": 11342935,
+            "permissions": [
+                "CREATE_INSTANT_INVITE",
+                "MANAGE_CHANNELS",
+                "MANAGE_GUILD",
+                "ADD_REACTIONS",
+                "VIEW_AUDIT_LOG",
+                "PRIORITY_SPEAKER",
+                "STREAM",
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "SEND_TTS_MESSAGES",
+                "MANAGE_MESSAGES",
+                "EMBED_LINKS",
+                "ATTACH_FILES",
+                "READ_MESSAGE_HISTORY",
+                "MENTION_EVERYONE",
+                "USE_EXTERNAL_EMOJIS",
+                "VIEW_GUILD_INSIGHTS",
+                "CONNECT",
+                "SPEAK",
+                "MUTE_MEMBERS",
+                "DEAFEN_MEMBERS",
+                "MOVE_MEMBERS",
+                "USE_VAD",
+                "CHANGE_NICKNAME",
+                "MANAGE_NICKNAMES",
+                "MANAGE_ROLES",
+                "MANAGE_WEBHOOKS",
+                "MANAGE_EMOJIS_AND_STICKERS",
+                "USE_APPLICATION_COMMANDS",
+                "REQUEST_TO_SPEAK",
+                "MANAGE_EVENTS",
+                "MANAGE_THREADS",
+                "USE_PUBLIC_THREADS",
+                "CREATE_PUBLIC_THREADS",
+                "USE_PRIVATE_THREADS",
+                "CREATE_PRIVATE_THREADS",
+                "USE_EXTERNAL_STICKERS",
+                "SEND_MESSAGES_IN_THREADS",
+                "START_EMBEDDED_ACTIVITIES",
+                "MODERATE_MEMBERS",
+                "USE_SOUNDBOARD",
+                "SEND_VOICE_MESSAGES"
+            ]
+        },
+        {
+            "id": "1454846944835801342",
+            "name": "Streamer",
+            "color": 15277667,
+            "permissions": []
+        },
+        {
+            "id": "1454864687706669139",
+            "name": "Owner",
+            "color": 14701040,
+            "permissions": [
+                "ADMINISTRATOR"
+            ]
+        },
+        {
+            "id": "1225274026881187860",
+            "name": "Supervisor",
+            "color": 182993,
+            "permissions": [
+                "ADMINISTRATOR"
+            ]
+        },
+        {
+            "id": "1454994743288135731",
+            "name": "3",
+            "color": 16748021,
+            "permissions": []
+        },
+        {
+            "id": "1455260489042100287",
+            "name": "Server Events",
+            "color": 3447003,
+            "permissions": [
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "CONNECT",
+                "SPEAK"
+            ]
+        },
+        {
+            "id": "1265651765462696006",
+            "name": "Bots SAMvKSA",
+            "color": 14701040,
+            "permissions": []
+        },
+        {
+            "id": "1454994815430295593",
+            "name": "6",
+            "color": 306258,
+            "permissions": []
+        },
+        {
+            "id": "1454650722305048739",
+            "name": "Other Bots",
+            "color": 14701040,
+            "permissions": []
+        },
+        {
+            "id": "1224925482911273034",
+            "name": "Member",
+            "color": 14701040,
+            "permissions": [
+                "CREATE_INSTANT_INVITE",
+                "ADD_REACTIONS",
+                "STREAM",
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "EMBED_LINKS",
+                "ATTACH_FILES",
+                "READ_MESSAGE_HISTORY",
+                "USE_EXTERNAL_EMOJIS",
+                "CONNECT",
+                "SPEAK",
+                "USE_VAD",
+                "CHANGE_NICKNAME",
+                "USE_APPLICATION_COMMANDS",
+                "REQUEST_TO_SPEAK"
+            ]
+        },
+        {
+            "id": "1454994723935621200",
+            "name": "2",
+            "color": 2779,
+            "permissions": []
+        },
+        {
+            "id": "1224925482911273040",
+            "name": "Support",
+            "color": 14701040,
+            "permissions": [
+                "CREATE_INSTANT_INVITE",
+                "ADD_REACTIONS",
+                "STREAM",
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "EMBED_LINKS",
+                "ATTACH_FILES",
+                "READ_MESSAGE_HISTORY",
+                "USE_EXTERNAL_EMOJIS",
+                "CONNECT",
+                "SPEAK",
+                "USE_VAD",
+                "CHANGE_NICKNAME",
+                "USE_APPLICATION_COMMANDS",
+                "REQUEST_TO_SPEAK"
+            ]
+        },
+        {
+            "id": "1395822288577888386",
+            "name": "Admin",
+            "color": 14701040,
+            "permissions": [
+                "CREATE_INSTANT_INVITE",
+                "KICK_MEMBERS",
+                "MANAGE_CHANNELS",
+                "MANAGE_GUILD",
+                "ADD_REACTIONS",
+                "VIEW_AUDIT_LOG",
+                "PRIORITY_SPEAKER",
+                "STREAM",
+                "VIEW_CHANNEL",
+                "SEND_MESSAGES",
+                "SEND_TTS_MESSAGES",
+                "MANAGE_MESSAGES",
+                "EMBED_LINKS",
+                "ATTACH_FILES",
+                "READ_MESSAGE_HISTORY",
+                "MENTION_EVERYONE",
+                "USE_EXTERNAL_EMOJIS",
+                "VIEW_GUILD_INSIGHTS",
+                "CONNECT",
+                "SPEAK",
+                "MUTE_MEMBERS",
+                "DEAFEN_MEMBERS",
+                "MOVE_MEMBERS",
+                "USE_VAD",
+                "CHANGE_NICKNAME",
+                "MANAGE_NICKNAMES",
+                "MANAGE_ROLES",
+                "MANAGE_WEBHOOKS",
+                "MANAGE_EMOJIS_AND_STICKERS",
+                "USE_APPLICATION_COMMANDS",
+                "REQUEST_TO_SPEAK",
+                "MANAGE_EVENTS",
+                "MANAGE_THREADS",
+                "USE_PUBLIC_THREADS",
+                "CREATE_PUBLIC_THREADS",
+                "USE_PRIVATE_THREADS",
+                "CREATE_PRIVATE_THREADS",
+                "USE_EXTERNAL_STICKERS",
+                "SEND_MESSAGES_IN_THREADS",
+                "START_EMBEDDED_ACTIVITIES",
+                "MODERATE_MEMBERS",
+                "USE_SOUNDBOARD",
+                "SEND_VOICE_MESSAGES"
+            ]
+        },
+        {
+            "id": "1454994854575603854",
+            "name": "8",
+            "color": 251103,
+            "permissions": []
+        }
+    ]
+}
