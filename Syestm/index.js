@@ -78,7 +78,6 @@ client.once("ready", async () => {
   
   client.user.setPresence({
     activities: [{ name: statusMessage, type: 'STREAMING', url: 'https://twitch.tv/SAMvKSA' }],
-    status: 'online'
   });
 });
 
