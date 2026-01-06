@@ -82,18 +82,6 @@ client.once("ready", async () => {
 });
 
 
-  client.once('ready', () => {
-    // استرجاع الحالة المحفوظة من قاعدة البيانات
-    let savedStatus = db.get(`${client.guilds.cache.first().id}_status`); // الحصول على الحالة المحفوظة باستخدام معرف السيرفر
-    
-    // إذا لم تكن هناك حالة محفوظة، استخدم الحالة الافتراضية
-    let statusMessage = savedStatus ? savedStatus : "hawk";
-  
-  
-    
-  });
-
-
     // Fetch all guilds the bot is part of and start updating channels
     
     client.on('messageCreate', async (message) => {
