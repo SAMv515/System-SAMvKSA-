@@ -417,30 +417,11 @@
                     "type": "GUILD_TEXT",
                     "permissions": [
                         {
-                            "id": "1042935994598563860",
-                            "type": "member",
-                            "allow": [],
-                            "deny": [
-                                "VIEW_CHANNEL",
-                                "SEND_MESSAGES",
-                                "SEND_MESSAGES_IN_THREADS"
-                            ]
-                        },
-                        {
                             "id": "1454957705553772595",
                             "type": "role",
                             "allow": [],
                             "deny": [
                                 "VIEW_CHANNEL",
-                                "SEND_MESSAGES"
-                            ]
-                        },
-                        {
-                            "id": "1454913955377053829",
-                            "type": "role",
-                            "allow": [],
-                            "deny": [
-                                "ADD_REACTIONS",
                                 "SEND_MESSAGES"
                             ]
                         },
@@ -451,6 +432,15 @@
                                 "SEND_MESSAGES"
                             ],
                             "deny": []
+                        },
+                        {
+                            "id": "1454913955377053829",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "ADD_REACTIONS",
+                                "SEND_MESSAGES"
+                            ]
                         }
                     ]
                 }
@@ -461,6 +451,21 @@
             "id": "1454246956237852702",
             "name": "My accounts",
             "channels": [
+                {
+                    "id": "1456873899311632529",
+                    "name": "SAMvKSA 🟤",
+                    "type": "GUILD_VOICE",
+                    "permissions": [
+                        {
+                            "id": "1224925482911273031",
+                            "type": "role",
+                            "allow": [],
+                            "deny": [
+                                "VIEW_CHANNEL"
+                            ]
+                        }
+                    ]
+                },
                 {
                     "id": "1454248589839564852",
                     "name": "tiktok",
@@ -826,6 +831,14 @@
                                 "VIEW_CHANNEL",
                                 "SEND_MESSAGES"
                             ]
+                        },
+                        {
+                            "id": "1433372994272624670",
+                            "type": "member",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
                         },
                         {
                             "id": "1224925482911273031",
@@ -2086,6 +2099,14 @@
                             ]
                         },
                         {
+                            "id": "1225274026881187860",
+                            "type": "role",
+                            "allow": [
+                                "SEND_MESSAGES"
+                            ],
+                            "deny": []
+                        },
+                        {
                             "id": "1454913955377053829",
                             "type": "role",
                             "allow": [],
@@ -2345,21 +2366,6 @@
                             "deny": [
                                 "CONNECT",
                                 "SPEAK"
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "id": "1456873899311632529",
-                    "name": "SAMvKSA 🟤",
-                    "type": "GUILD_VOICE",
-                    "permissions": [
-                        {
-                            "id": "1224925482911273031",
-                            "type": "role",
-                            "allow": [],
-                            "deny": [
-                                "VIEW_CHANNEL"
                             ]
                         }
                     ]
@@ -2701,7 +2707,7 @@
         {
             "id": "1265651765462696006",
             "name": "Bots SAMvKSA",
-            "color": 14701040,
+            "color": 12332236,
             "permissions": []
         },
         {
