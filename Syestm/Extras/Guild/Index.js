@@ -216,15 +216,15 @@ const B = new MessageActionRow().addComponents(
   new MessageButton()
     .setCustomId(`Adding`)
     .setStyle(`SECONDARY`)
-    .setLabel(`أضافة اداري`),
+    .setLabel(`أضافة اداري`),// زر تغيير الاسم
   new MessageButton()
-    .setCustomId(`Reminder`)
+    .setCustomId(`Reminder`)// زر تغيير الاسم
     .setStyle(`SECONDARY`)
-    .setLabel(`التذكير`),
+    .setLabel(`التذكير`),// زر تغيير الاسم
   new MessageButton() 
-    .setCustomId(`ChangeName`)
+    .setCustomId(`ChangeName`)// زر تغيير الاسم
     .setStyle(`SECONDARY`)
-    .setLabel(`تغيير أسم التذكرة`)
+    .setLabel(`تغيير أسم التذكرة`)// زر تغيير الاسم
 );
 
 client.on('interactionCreate', async function (Message) {
