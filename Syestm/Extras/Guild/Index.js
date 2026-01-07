@@ -212,19 +212,19 @@ const B = new MessageActionRow().addComponents(
   new MessageButton()
     .setCustomId(`Delete`)
     .setStyle(`SECONDARY`)
-    .setLabel(`حذف التذكرة`), // زر تغيير الاسم
+    .setLabel(`حذف التذكرة`),
   new MessageButton()
     .setCustomId(`Adding`)
     .setStyle(`SECONDARY`)
-    .setLabel(`أضافة اداري`),// زر تغيير الاسم
+    .setLabel(`أضافة اداري`),
   new MessageButton()
-    .setCustomId(`Reminder`)// زر تغيير الاسم
+    .setCustomId(`Reminder`)
     .setStyle(`SECONDARY`)
-    .setLabel(`التذكير`),// زر تغيير الاسم
-  new MessageButton() 
-    .setCustomId(`ChangeName`)// زر تغيير الاسم
+    .setLabel(`التذكير`),
+  new MessageButton() // زر تغيير الاسم
+    .setCustomId(`ChangeName`)
     .setStyle(`SECONDARY`)
-    .setLabel(`تغيير أسم التذكرة`)// زر تغيير الاسم
+    .setLabel(`تغيير أسم التذكرة`)
 );
 
 client.on('interactionCreate', async function (Message) {
