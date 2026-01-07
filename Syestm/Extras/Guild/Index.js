@@ -212,7 +212,7 @@ const B = new MessageActionRow().addComponents(
   new MessageButton()
     .setCustomId(`Delete`)
     .setStyle(`SECONDARY`)
-    .setLabel(`حذف التذكرة`),
+    .setLabel(`حذف التذكرة`), // زر تغيير الاسم
   new MessageButton()
     .setCustomId(`Adding`)
     .setStyle(`SECONDARY`)
@@ -221,7 +221,7 @@ const B = new MessageActionRow().addComponents(
     .setCustomId(`Reminder`)
     .setStyle(`SECONDARY`)
     .setLabel(`التذكير`),
-  new MessageButton() // زر تغيير الاسم
+  new MessageButton() 
     .setCustomId(`ChangeName`)
     .setStyle(`SECONDARY`)
     .setLabel(`تغيير أسم التذكرة`)
